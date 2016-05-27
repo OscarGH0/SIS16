@@ -16,7 +16,7 @@ public class SIS16A {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola munfo");
+        System.out.println("Hola mundo");
     }
     
 }
